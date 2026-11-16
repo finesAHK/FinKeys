@@ -2,8 +2,8 @@
 
 Лёгкий и стильный оверлей нажатий клавиш и мыши для игр, спидранов и стримов на Windows. Написан на **AutoHotkey v1.1** с использованием **HTML/CSS**.
 
-![FinesKeys Preview 1](<img width="509" height="276" alt="preview1" src="https://github.com/user-attachments/assets/99702d64-a2b1-4d8b-8128-48ef8f85da74" />)
-![FinesKeys Preview 1](<img width="577" height="292" alt="preview2" src="https://github.com/user-attachments/assets/d51b5889-cb59-466c-87c9-306193c5a4b4" />)
+<img width="509" height="276" alt="preview1" src="https://github.com/user-attachments/assets/99702d64-a2b1-4d8b-8128-48ef8f85da74" />
+<img width="577" height="292" alt="preview2" src="https://github.com/user-attachments/assets/d51b5889-cb59-466c-87c9-306193c5a4b4" />
 
 ## ✨ Особенности
 * **Прозрачный фон без рамки:** отображаются только кнопки и мышка, ничего лишнего поверх игры.
